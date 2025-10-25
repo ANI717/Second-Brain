@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8164aebd8833ccd0",
+        "id": "8dc787e0b63c3d3b",
         "type": "tabs",
         "children": [
           {
-            "id": "2dfc64963669f215",
+            "id": "064c97b9539453f6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -90,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Operating System/5. Computer System Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 5. Computer System Architecture"
             }
           },
           {
@@ -108,11 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Operating System/5. Computer System Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 5. Computer System Architecture"
             }
           },
           {
@@ -136,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Operating System/5. Computer System Architecture.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of 5. Computer System Architecture"
             }
           }
         ]
@@ -164,5 +166,25 @@
     }
   },
   "active": "ebb1dfa4c76e25a8",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Docker/8. GPU and ML-Specific Commands.md",
+    "Docker/9. Pro Tips.md",
+    "Docker/7. System Maintenance & Cleanup.md",
+    "Docker/6. Useful Flags and Options.md",
+    "Docker/5. Networking.md",
+    "Docker/4. Volumes & Persistent Storage.md",
+    "Docker/3. Docker Compose Commands.md",
+    "Docker/2. Container Management.md",
+    "Docker/1. Image Management.md",
+    "Docker/docker_cheatsheet.md",
+    "Operating System/6. Operating System Structure.md",
+    "Docker/Commands.md",
+    "Docker",
+    "Operating System/5. Computer System Architecture.md",
+    "Operating System/4. Basics of OS (IO Structure).md",
+    "Operating System/3. Basics of OS (Storage Structure).md",
+    "Operating System/2. Basics of OS (Computer System Operation).md",
+    "Operating System/1. Introduction to Operating Systems.md",
+    "README.md"
+  ]
 }
