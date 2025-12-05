@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "057773e522027eb8",
+        "id": "40590767dcb55479",
         "type": "tabs",
         "children": [
           {
-            "id": "359f7baecf44454c",
+            "id": "1eea23b37217ea20",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Operating System/25. Message Passing Systems (Part 1).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "25. Message Passing Systems (Part 1)"
             }
           }
         ]
@@ -165,8 +169,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "359f7baecf44454c",
+  "active": "1eea23b37217ea20",
   "lastOpenFiles": [
+    "Operating System/25. Message Passing Systems (Part 1).md",
+    "Operating System/24. Shared Memory Systems.md",
+    "Operating System/23. Interprocess Communication.md",
     "Operating System/22. Operation on Processes – Process Termination.md",
     "Operating System/21. Operation on Processes – Process Creation.md",
     "Operating System/20. Context Switch.md",
@@ -193,10 +200,7 @@
     "Operating System/07. Operating System Services.md",
     "Operating System/01. Introduction to Operating Systems.md",
     "Data Structure and Algorithm/0. Concepts.md",
-    "Data Structure and Algorithm/1. Sequence.md",
-    "Linux/1. Packages.md",
     "Data Structure and Algorithm",
-    "Linux/2. Flags.md",
     "Linux",
     "Docker"
   ]
