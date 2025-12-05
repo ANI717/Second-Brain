@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6b14bfbdcac707a5",
+        "id": "057773e522027eb8",
         "type": "tabs",
         "children": [
           {
-            "id": "a85b41a387b02555",
+            "id": "359f7baecf44454c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operating System/20. Context Switch.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "20. Context Switch"
+              "title": "New tab"
             }
           }
         ]
@@ -169,8 +165,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "a85b41a387b02555",
+  "active": "359f7baecf44454c",
   "lastOpenFiles": [
+    "Operating System/22. Operation on Processes – Process Termination.md",
+    "Operating System/21. Operation on Processes – Process Creation.md",
     "Operating System/20. Context Switch.md",
     "Operating System/19. Process Scheduling.md",
     "Operating System/18. Process Control Block.md",
@@ -199,9 +197,7 @@
     "Linux/1. Packages.md",
     "Data Structure and Algorithm",
     "Linux/2. Flags.md",
-    "Docker/06. Useful Flags and Options.md",
     "Linux",
-    "Docker/03. Docker Compose Commands.md",
     "Docker"
   ]
 }
