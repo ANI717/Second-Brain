@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating System/25. Message Passing Systems (Part 1).md",
+                "file": "Operating System/27. Message Passing Systems (Part 3).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25. Message Passing Systems (Part 1)"
+              "title": "27. Message Passing Systems (Part 3)"
             }
           }
         ]
@@ -171,6 +171,8 @@
   },
   "active": "1eea23b37217ea20",
   "lastOpenFiles": [
+    "Operating System/26. Message Passing Systems (Part 2).md",
+    "Operating System/27. Message Passing Systems (Part 3).md",
     "Operating System/25. Message Passing Systems (Part 1).md",
     "Operating System/24. Shared Memory Systems.md",
     "Operating System/23. Interprocess Communication.md",
@@ -198,8 +200,6 @@
     "Operating System/05. Computer System Architecture.md",
     "Operating System/08. User Operating System Interface.md",
     "Operating System/07. Operating System Services.md",
-    "Operating System/01. Introduction to Operating Systems.md",
-    "Data Structure and Algorithm/0. Concepts.md",
     "Data Structure and Algorithm",
     "Linux",
     "Docker"
